@@ -98,7 +98,9 @@ const Page = () => {
               nextButtonText="Next"
             >
               <Step>
-                <LogoTitle />
+                <Suspense fallback={<div>Loading...</div>}>
+                  <LogoTitle />
+                </Suspense>
               </Step>
               <Step>
                 <LogoDesc />
