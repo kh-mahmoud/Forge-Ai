@@ -11,6 +11,8 @@ import useDataStore from "@/lib/store";
 import { checkData } from "@/lib/utils";
 import { toast } from "sonner";
 import { LogoGenerator } from "@/lib/actions/ai.actions";
+import { Suspense } from 'react';
+
 
 const Page = () => {
   const [step, setStep] = useState(1);
