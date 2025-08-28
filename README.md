@@ -36,8 +36,8 @@ Because brands aren’t born.
 
 1️⃣ **Clone the Repository**  
 ```bash
-git clone https://github.com/kh-mahmoud/Ai-Content-Crafter.git
-cd Ai-Content-Crafter
+git clone https://github.com/kh-mahmoud/Forge-Ai.git
+cd Forge-Ai
 ```
 
 2️⃣ Install Dependencies
