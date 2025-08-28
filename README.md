@@ -2,7 +2,7 @@
 
 **Every brand begins as a spark ✨.**  A fleeting thought. A name scribbled in the corner of a notebook.Forge AI takes that spark and **tempers it into identity** —  bold, precise, and unforgettable.  
 
-It’s about **clarity through design**, about turning chaos into a mark that speaks.  Forge AI guides you through a **step-by-step creative flow ** — naming your brand 📝, shaping its voice 🗣, defining its colors 🎨, and carving its emblem ⚡.  
+It’s about **clarity through design**, about turning chaos into a mark that speaks.  Forge AI guides you through a **step-by-step creative flow** — naming your brand 📝, shaping its voice 🗣, defining its colors 🎨, and carving its emblem ⚡.  
 
 <img width="1353" height="636" alt="photo" src="https://github.com/user-attachments/assets/32c7a74b-0fa1-4e3a-85c3-6e89f7debb56" />
 
@@ -63,3 +63,8 @@ IMAGEKIT_PRIVATE_KEY=
 ```bash
 npm run dev
 ```
+---
+Whether you’re building a startup, launching a side project, or reimagining your brand, Forge AI gives you the spark ⚡ and the steel 🔨 to bring your vision to life.  
+
+Because every brand deserves more than a logo.  
+**It deserves an identity — forged.**  
