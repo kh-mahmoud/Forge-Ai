@@ -4,7 +4,7 @@
 
 It’s about **clarity through design**, about turning chaos into a mark that speaks.  Forge AI guides you through a **step-by-step creative flow ** — naming your brand 📝, shaping its voice 🗣, defining its colors 🎨, and carving its emblem ⚡.  
 
-<img width="1353" height="631" alt="forge-ai-demo" src="https://github.com/user-attachments/assets/22d7ec7d-fee4-4031-a38c-293e427904ca" />
+<img width="1353" height="636" alt="photo" src="https://github.com/user-attachments/assets/32c7a74b-0fa1-4e3a-85c3-6e89f7debb56" />
 
 From the **first spark of imagination** 🖋 to the **final polished logo** , Forge AI adapts to your vision — delivering results that feel crafted, not generated.  
 
@@ -19,7 +19,6 @@ Because brands aren’t born.
 - 🐻 **Zustand** — Lightweight and powerful state management  
 - 🤖 **AI Integration** — Powered by Gemini’s cutting-edge models  
 - 📱 **Fully Responsive** — Works beautifully on desktop, tablet, and mobile  
-
 ---
 
 ## 📦 Key Features  
