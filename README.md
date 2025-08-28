@@ -68,3 +68,6 @@ Whether you’re building a startup, launching a side project, or reimagining yo
 
 Because every brand deserves more than a logo.  
 **It deserves an identity — forged.**  
+
+Give it a ⭐ and step into the future of identity forging.
+
