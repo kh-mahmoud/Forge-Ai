@@ -70,4 +70,11 @@ Because every brand deserves more than a logo.
 **It deserves an identity — forged.**  
 
 Give it a ⭐ and step into the future of identity forging.
+<p >
+  <a href="https://forge-ai-eosin.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/ Try_Forge_AI_Live-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Forge AI Live Demo"/>
+  </a>
+</p>
+
+
 
