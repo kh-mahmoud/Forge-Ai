@@ -76,5 +76,14 @@ Give it a ⭐ and step into the future of identity forging.
   </a>
 </p>
 
+---
+
+<div align="center">
+
+**🚀 Built with AI? Learn how**  
+[Start coding on Scrimba](https://scrimba.com/?via=u4f3b28) ·
+
+</div>
+
 
 
